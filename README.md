@@ -4,4 +4,4 @@ Abstract: The U S reports more than 400,000 patients receiving dialysis treatmen
 
 Presented at the 2019 BMES/FDA Frontiers in Medical Devices Conference.
 
-Poster: [BMESPoster.pdf](https://github.com/tom-mcilwain/Siemens-3DCatheterOptimization/files/7758373/BMESPoster.pdf)
+[Poster](https://github.com/tom-mcilwain/Siemens-3DCatheterOptimization/files/7758373/BMESPoster.pdf)
